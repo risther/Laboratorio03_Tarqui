@@ -1,0 +1,1221 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.1.6)  22 APR 2021 01:28
+entering extended mode
+**./index.tex
+(index.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+(D:\MikText\tex/latex/elsarticle\elsarticle.cls
+Document Class: elsarticle 2020/11/20, 3.3: Elsevier Ltd
+(D:\MikText\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+
+(D:\MikText\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count167
+\l__pdf_internal_box=\box45
+))
+(D:\MikText\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(D:\MikText\tex/latex/l3packages/xparse\xparse-generic.tex
+\l__xparse_current_arg_int=\count168
+\g__xparse_grabber_int=\count169
+\l__xparse_m_args_int=\count170
+\l__xparse_v_nesting_int=\count171
+))
+(D:\MikText\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count172
+)
+\@bls=\dimen134
+
+(D:\MikText\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(D:\MikText\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\c@figure=\count179
+\c@table=\count180
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+(D:\MikText\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MikText\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(D:\MikText\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MikText\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MikText\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(D:\MikText\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+\c@tnote=\count181
+\c@fnote=\count182
+\c@cnote=\count183
+\c@ead=\count184
+\c@author=\count185
+\@eadauthor=\toks16
+\c@affn=\count186
+\absbox=\box46
+\elsarticlehighlightsbox=\box47
+\elsarticlegrabsbox=\box48
+\keybox=\box49
+\Columnwidth=\dimen138
+\space@left=\dimen139
+\els@boxa=\box50
+\els@boxb=\box51
+\leftMargin=\dimen140
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+ (index.spl)
+(D:\MikText\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count187
+)
+\splwrite=\write3
+\openout3 = `index.spl'.
+
+\appnamewidth=\dimen141
+)
+(D:\MikText\tex/generic/babel\babel.sty
+Package: babel 2020/06/10 3.45 The Babel package
+ (D:\MikText\tex/generic/babel\babel.def
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen142
+\l@babelnohyphens=\language79
+(D:\MikText\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\MikText\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\MikText\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count190
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(D:\MikText\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\MikText\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\MikText\tex/latex/lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count191
+\output=\toks20
+\linenoprevgraf=\count192
+\linenumbersep=\dimen143
+\linenumberwidth=\dimen144
+\c@linenumber=\count193
+\c@pagewiselinenumber=\count194
+\c@LN@truepage=\count195
+\c@internallinenumber=\count196
+\c@internallinenumbers=\count197
+\quotelinenumbersep=\dimen145
+\bframerule=\dimen146
+\bframesep=\dimen147
+\bframebox=\box52
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(D:\MikText\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) (D:\MikText\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(index.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `index.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+ (D:\MikText\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen148
+\scratchbox=\box53
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen149
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks24
+) (D:\MikText\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+
+
+(D:\MikText\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+
+ (D:\MikText\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./IMAGENES/1.1.1.jpg, id=1, 202.50656pt x 420.06938pt>
+File: ./IMAGENES/1.1.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/1.1.1.jpg>
+Package pdftex.def Info: ./IMAGENES/1.1.1.jpg  used on input line 42.
+(pdftex.def)             Requested size: 113.81102pt x 236.08974pt.
+<./IMAGENES/1.1.2.jpg, id=2, 277.78781pt x 462.97969pt>
+File: ./IMAGENES/1.1.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/1.1.2.jpg>
+Package pdftex.def Info: ./IMAGENES/1.1.2.jpg  used on input line 45.
+(pdftex.def)             Requested size: 113.81102pt x 189.68866pt.
+<./IMAGENES/1.1.3.jpg, id=3, 822.07124pt x 444.91219pt>
+File: ./IMAGENES/1.1.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/1.1.3.jpg>
+Package pdftex.def Info: ./IMAGENES/1.1.3.jpg  used on input line 48.
+(pdftex.def)             Requested size: 284.52756pt x 153.98366pt.
+
+LaTeX Warning: File `./IMAGENES/1.1.4' not found on input line 50.
+
+
+! LaTeX Error: Unknown graphics extension: .4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...ludegraphics[width=10cm]{./IMAGENES/1.1.4}
+                                                   \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./IMAGENES/1.1.5.jpg, id=4, 435.87843pt x 494.59781pt>
+File: ./IMAGENES/1.1.5.jpg Graphic file (type jpg)
+<use ./IMAGENES/1.1.5.jpg>
+Package pdftex.def Info: ./IMAGENES/1.1.5.jpg  used on input line 52.
+(pdftex.def)             Requested size: 284.52756pt x 322.8583pt.
+<./IMAGENES/1.1.6.jpg, id=5, 447.17062pt x 490.08093pt>
+File: ./IMAGENES/1.1.6.jpg Graphic file (type jpg)
+<use ./IMAGENES/1.1.6.jpg>
+Package pdftex.def Info: ./IMAGENES/1.1.6.jpg  used on input line 54.
+(pdftex.def)             Requested size: 284.52756pt x 311.83357pt.
+
+LaTeX Warning: File `./IMAGENES/1.1.7' not found on input line 56.
+
+
+! LaTeX Error: Unknown graphics extension: .7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...ludegraphics[width=10cm]{./IMAGENES/1.1.7}
+                                                   \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./IMAGENES/1.1.8.jpg, id=6, 275.52937pt x 228.855pt>
+File: ./IMAGENES/1.1.8.jpg Graphic file (type jpg)
+<use ./IMAGENES/1.1.8.jpg>
+Package pdftex.def Info: ./IMAGENES/1.1.8.jpg  used on input line 59.
+(pdftex.def)             Requested size: 284.52756pt x 236.35184pt.
+<./IMAGENES/1.1.9.jpg, id=7, 503.63156pt x 390.70969pt>
+File: ./IMAGENES/1.1.9.jpg Graphic file (type jpg)
+<use ./IMAGENES/1.1.9.jpg>
+Package pdftex.def Info: ./IMAGENES/1.1.9.jpg  used on input line 61.
+(pdftex.def)             Requested size: 284.52756pt x 220.73349pt.
+<./IMAGENES/1.1.10.jpg, id=8, 500.62032pt x 393.72093pt>
+File: ./IMAGENES/1.1.10.jpg Graphic file (type jpg)
+<use ./IMAGENES/1.1.10.jpg>
+Package pdftex.def Info: ./IMAGENES/1.1.10.jpg  used on input line 63.
+(pdftex.def)             Requested size: 284.52756pt x 223.78044pt.
+<./IMAGENES/1.1.11.jpg, id=9, 643.6547pt x 483.30562pt>
+File: ./IMAGENES/1.1.11.jpg Graphic file (type jpg)
+<use ./IMAGENES/1.1.11.jpg>
+Package pdftex.def Info: ./IMAGENES/1.1.11.jpg  used on input line 69.
+(pdftex.def)             Requested size: 284.52756pt x 213.65071pt.
+<./IMAGENES/2.1.jpg, id=10, 167.87718pt x 226.59656pt>
+File: ./IMAGENES/2.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.1.jpg>
+Package pdftex.def Info: ./IMAGENES/2.1.jpg  used on input line 74.
+(pdftex.def)             Requested size: 284.52756pt x 384.05074pt.
+<./IMAGENES/2.2.jpg, id=11, 235.63031pt x 133.24782pt>
+File: ./IMAGENES/2.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.2.jpg>
+Package pdftex.def Info: ./IMAGENES/2.2.jpg  used on input line 76.
+(pdftex.def)             Requested size: 284.52756pt x 160.90097pt.
+<./IMAGENES/2.3.jpg, id=12, 229.60782pt x 380.17032pt>
+File: ./IMAGENES/2.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.3.jpg>
+Package pdftex.def Info: ./IMAGENES/2.3.jpg  used on input line 78.
+(pdftex.def)             Requested size: 284.52756pt x 471.12788pt.
+File: ./IMAGENES/2.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.1.jpg>
+Package pdftex.def Info: ./IMAGENES/2.1.jpg  used on input line 81.
+(pdftex.def)             Requested size: 284.52756pt x 384.05074pt.
+<./IMAGENES/2.4.jpg, id=13, 254.45062pt x 160.34906pt>
+File: ./IMAGENES/2.4.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.4.jpg>
+Package pdftex.def Info: ./IMAGENES/2.4.jpg  used on input line 83.
+(pdftex.def)             Requested size: 284.52756pt x 179.31079pt.
+<./IMAGENES/2.5.jpg, id=14, 653.44125pt x 192.72pt>
+File: ./IMAGENES/2.5.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.5.jpg>
+Package pdftex.def Info: ./IMAGENES/2.5.jpg  used on input line 85.
+(pdftex.def)             Requested size: 284.52756pt x 83.91486pt.
+<./IMAGENES/2.6.jpg, id=15, 277.035pt x 328.97906pt>
+File: ./IMAGENES/2.6.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.6.jpg>
+Package pdftex.def Info: ./IMAGENES/2.6.jpg  used on input line 87.
+(pdftex.def)             Requested size: 284.52756pt x 337.87837pt.
+<./IMAGENES/2.7.jpg, id=16, 526.21594pt x 216.81pt>
+File: ./IMAGENES/2.7.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.7.jpg>
+Package pdftex.def Info: ./IMAGENES/2.7.jpg  used on input line 89.
+(pdftex.def)             Requested size: 284.52756pt x 117.23444pt.
+<./IMAGENES/2.9.jpg, id=17, 445.665pt x 355.3275pt>
+File: ./IMAGENES/2.9.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.9.jpg>
+Package pdftex.def Info: ./IMAGENES/2.9.jpg  used on input line 91.
+(pdftex.def)             Requested size: 284.52756pt x 226.85577pt.
+
+LaTeX Warning: File `./IMAGENES/2.10' not found on input line 93.
+
+
+! LaTeX Error: Unknown graphics extension: .10.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 ...cludegraphics[width=10cm]{./IMAGENES/2.10}
+                                                   \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./IMAGENES/2.11.jpg, id=18, 361.35pt x 307.1475pt>
+File: ./IMAGENES/2.11.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.11.jpg>
+Package pdftex.def Info: ./IMAGENES/2.11.jpg  used on input line 96.
+(pdftex.def)             Requested size: 284.52756pt x 241.8518pt.
+<./IMAGENES/2.13.jpg, id=19, 306.39468pt x 334.24875pt>
+File: ./IMAGENES/2.13.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.13.jpg>
+Package pdftex.def Info: ./IMAGENES/2.13.jpg  used on input line 99.
+(pdftex.def)             Requested size: 284.52756pt x 310.4095pt.
+
+LaTeX Warning: File `./IMAGENES/2.14' not found on input line 101.
+
+
+! LaTeX Error: Unknown graphics extension: .14.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 ...ludegraphics[width=10cm]{./IMAGENES/2.14}
+                                                   \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./IMAGENES/2.15.jpg, id=20, 392.21532pt x 273.27094pt>
+File: ./IMAGENES/2.15.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.15.jpg>
+Package pdftex.def Info: ./IMAGENES/2.15.jpg  used on input line 104.
+(pdftex.def)             Requested size: 284.52756pt x 198.25185pt.
+<./IMAGENES/2.19.jpg, id=21, 541.27219pt x 264.99pt>
+File: ./IMAGENES/2.19.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.19.jpg>
+Package pdftex.def Info: ./IMAGENES/2.19.jpg  used on input line 111.
+(pdftex.def)             Requested size: 284.52756pt x 139.29974pt.
+<./IMAGENES/2.20.jpg, id=22, 189.70876pt x 143.78719pt>
+File: ./IMAGENES/2.20.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.20.jpg>
+Package pdftex.def Info: ./IMAGENES/2.20.jpg  used on input line 114.
+(pdftex.def)             Requested size: 284.52756pt x 215.67586pt.
+<./IMAGENES/2.21.jpg, id=23, 762.59906pt x 186.6975pt>
+File: ./IMAGENES/2.21.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.21.jpg>
+Package pdftex.def Info: ./IMAGENES/2.21.jpg  used on input line 117.
+(pdftex.def)             Requested size: 284.52756pt x 69.65529pt.
+
+LaTeX Warning: File `./IMAGENES/2.24' not found on input line 120.
+
+
+! LaTeX Error: Unknown graphics extension: .24.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120 ...ludegraphics[width=10cm]{./IMAGENES/2.24}
+                                                   \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./IMAGENES/2.27.jpg, id=24, 371.88937pt x 158.84344pt>
+File: ./IMAGENES/2.27.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.27.jpg>
+Package pdftex.def Info: ./IMAGENES/2.27.jpg  used on input line 125.
+(pdftex.def)             Requested size: 284.52756pt x 121.5318pt.
+<./IMAGENES/2.29.jpg, id=25, 349.305pt x 271.0125pt>
+File: ./IMAGENES/2.29.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.29.jpg>
+Package pdftex.def Info: ./IMAGENES/2.29.jpg  used on input line 129.
+(pdftex.def)             Requested size: 284.52756pt x 220.76778pt.
+<./IMAGENES/2.30.jpg, id=26, 232.61906pt x 142.28156pt>
+File: ./IMAGENES/2.30.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.30.jpg>
+Package pdftex.def Info: ./IMAGENES/2.30.jpg  used on input line 136.
+(pdftex.def)             Requested size: 284.52756pt x 174.04784pt.
+<./IMAGENES/3.1.jpg, id=27, 405.76593pt x 169.38281pt>
+File: ./IMAGENES/3.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.1.jpg>
+Package pdftex.def Info: ./IMAGENES/3.1.jpg  used on input line 141.
+(pdftex.def)             Requested size: 284.52756pt x 118.77649pt.
+<./IMAGENES/3.3.jpg, id=28, 590.95781pt x 206.27063pt>
+File: ./IMAGENES/3.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.3.jpg>
+Package pdftex.def Info: ./IMAGENES/3.3.jpg  used on input line 144.
+(pdftex.def)             Requested size: 284.52756pt x 99.31407pt.
+<./IMAGENES/3.5.jpg, id=29, 220.57407pt x 377.91188pt>
+File: ./IMAGENES/3.5.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.5.jpg>
+Package pdftex.def Info: ./IMAGENES/3.5.jpg  used on input line 148.
+(pdftex.def)             Requested size: 284.52756pt x 487.50835pt.
+<./IMAGENES/3.6.jpg, id=30, 249.18094pt x 287.57437pt>
+File: ./IMAGENES/3.6.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.6.jpg>
+Package pdftex.def Info: ./IMAGENES/3.6.jpg  used on input line 151.
+(pdftex.def)             Requested size: 284.52756pt x 328.39546pt.
+
+LaTeX Warning: File `./IMAGENES/3..7' not found on input line 153.
+
+
+! LaTeX Error: Unknown graphics extension: .7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153 ...ludegraphics[width=10cm]{./IMAGENES/3..7}
+                                                   \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./IMAGENES/3.9.jpg, id=31, 394.47375pt x 295.85532pt>
+File: ./IMAGENES/3.9.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.9.jpg>
+Package pdftex.def Info: ./IMAGENES/3.9.jpg  used on input line 158.
+(pdftex.def)             Requested size: 284.52756pt x 213.39487pt.
+<./IMAGENES/3.10.jpg, id=32, 181.42781pt x 190.46156pt>
+File: ./IMAGENES/3.10.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.10.jpg>
+Package pdftex.def Info: ./IMAGENES/3.10.jpg  used on input line 160.
+(pdftex.def)             Requested size: 284.52756pt x 298.72884pt.
+<./IMAGENES/3.12.jpg, id=33, 397.485pt x 177.66376pt>
+File: ./IMAGENES/3.12.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.12.jpg>
+Package pdftex.def Info: ./IMAGENES/3.12.jpg  used on input line 164.
+(pdftex.def)             Requested size: 284.52756pt x 127.17772pt.
+<./IMAGENES/3.14.jpg, id=34, 482.55281pt x 182.18062pt>
+File: ./IMAGENES/3.14.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.14.jpg>
+Package pdftex.def Info: ./IMAGENES/3.14.jpg  used on input line 167.
+(pdftex.def)             Requested size: 284.52756pt x 107.42168pt.
+<./IMAGENES/3.16.jpg, id=35, 498.36188pt x 134.75343pt>
+File: ./IMAGENES/3.16.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.16.jpg>
+Package pdftex.def Info: ./IMAGENES/3.16.jpg  used on input line 171.
+(pdftex.def)             Requested size: 284.52756pt x 76.93567pt.
+<./IMAGENES/3.19.jpg, id=36, 273.27094pt x 242.40562pt>
+File: ./IMAGENES/3.19.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.19.jpg>
+Package pdftex.def Info: ./IMAGENES/3.19.jpg  used on input line 177.
+(pdftex.def)             Requested size: 284.52756pt x 252.40659pt.
+File: ./IMAGENES/2.30.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.30.jpg>
+Package pdftex.def Info: ./IMAGENES/2.30.jpg  used on input line 180.
+(pdftex.def)             Requested size: 284.52756pt x 174.04784pt.
+<./IMAGENES/3.23.jpg, id=37, 416.30531pt x 149.8097pt>
+File: ./IMAGENES/3.23.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.23.jpg>
+Package pdftex.def Info: ./IMAGENES/3.23.jpg  used on input line 183.
+(pdftex.def)             Requested size: 284.52756pt x 102.3927pt.
+<./IMAGENES/3.25.jpg, id=38, 362.10281pt x 341.02406pt>
+File: ./IMAGENES/3.25.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.25.jpg>
+Package pdftex.def Info: ./IMAGENES/3.25.jpg  used on input line 187.
+(pdftex.def)             Requested size: 284.52756pt x 267.96985pt.
+<./IMAGENES/3.26.jpg, id=39, 424.58624pt x 262.73157pt>
+File: ./IMAGENES/3.26.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.26.jpg>
+Package pdftex.def Info: ./IMAGENES/3.26.jpg  used on input line 190.
+(pdftex.def)             Requested size: 284.52756pt x 176.07332pt.
+<./IMAGENES/3.28.jpg, id=40, 307.90031pt x 136.25906pt>
+File: ./IMAGENES/3.28.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.28.jpg>
+Package pdftex.def Info: ./IMAGENES/3.28.jpg  used on input line 193.
+(pdftex.def)             Requested size: 284.52756pt x 125.92537pt.
+<./IMAGENES/3.29.jpg, id=41, 233.37187pt x 104.64093pt>
+File: ./IMAGENES/3.29.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.29.jpg>
+Package pdftex.def Info: ./IMAGENES/3.29.jpg  used on input line 196.
+(pdftex.def)             Requested size: 284.52756pt x 127.59306pt.
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.199 	\end{itemize}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--199
+
+ []
+
+
+Overfull \hbox (2.61108pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{C:/Users/Risther/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./IMAGENES/1.
+1.1.jpg>] [2 <./IMAGENES/1.1.2.jpg> <./IMAGENES/1.1.3.jpg>] [3 <./IMAGENES/1.1.
+5.jpg>] [4 <./IMAGENES/1.1.6.jpg>] [5 <./IMAGENES/1.1.8.jpg> <./IMAGENES/1.1.9.
+jpg>] [6 <./IMAGENES/1.1.10.jpg> <./IMAGENES/1.1.11.jpg>] [7 <./IMAGENES/2.1.jp
+g>] [8 <./IMAGENES/2.2.jpg>] [9 <./IMAGENES/2.3.jpg>] [10] [11 <./IMAGENES/2.4.
+jpg> <./IMAGENES/2.5.jpg>] [12 <./IMAGENES/2.6.jpg> <./IMAGENES/2.7.jpg>]
+[13 <./IMAGENES/2.9.jpg>] [14 <./IMAGENES/2.11.jpg>] [15 <./IMAGENES/2.13.jpg>]
+[16 <./IMAGENES/2.15.jpg> <./IMAGENES/2.19.jpg>] [17 <./IMAGENES/2.20.jpg> <./I
+MAGENES/2.21.jpg>] [18 <./IMAGENES/2.27.jpg> <./IMAGENES/2.29.jpg>] [19 <./IMAG
+ENES/2.30.jpg> <./IMAGENES/3.1.jpg> <./IMAGENES/3.3.jpg>] [20 <./IMAGENES/3.5.j
+pg>] [21 <./IMAGENES/3.6.jpg>] [22 <./IMAGENES/3.9.jpg>] [23 <./IMAGENES/3.10.j
+pg> <./IMAGENES/3.12.jpg>] [24 <./IMAGENES/3.14.jpg> <./IMAGENES/3.16.jpg>]
+[25 <./IMAGENES/3.19.jpg>] [26 <./IMAGENES/3.23.jpg> <./IMAGENES/3.25.jpg>]
+[27 <./IMAGENES/3.26.jpg> <./IMAGENES/3.28.jpg> <./IMAGENES/3.29.jpg>]
+! Argument of \@sect has an extra }.
+<inserted text> 
+                \par 
+l.202 \section
+              {Ejercicio 2: Construyendo Reportes en Power BI}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\normalsize \bfseries \boldmath }{\@firstoftwo {\@ssect {\z@ }{18\p@ \ETC.
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.202 \section
+              {Ejercicio 2: Construyendo Reportes en Power BI}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<./IMAGENES/4.1.jpg, id=132, 190.46156pt x 88.07906pt>
+File: ./IMAGENES/4.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.1.jpg>
+Package pdftex.def Info: ./IMAGENES/4.1.jpg  used on input line 207.
+(pdftex.def)             Requested size: 284.52756pt x 131.59543pt.
+<./IMAGENES/4.2.jpg, id=133, 152.06813pt x 174.6525pt>
+File: ./IMAGENES/4.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.2.jpg>
+Package pdftex.def Info: ./IMAGENES/4.2.jpg  used on input line 209.
+(pdftex.def)             Requested size: 284.52756pt x 326.79305pt.
+<./IMAGENES/4.3.jpg, id=134, 285.31593pt x 164.86594pt>
+File: ./IMAGENES/4.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.3.jpg>
+Package pdftex.def Info: ./IMAGENES/4.3.jpg  used on input line 211.
+(pdftex.def)             Requested size: 284.52756pt x 164.41017pt.
+<./IMAGENES/4.4.jpg, id=135, 207.02344pt x 185.19188pt>
+File: ./IMAGENES/4.4.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.4.jpg>
+Package pdftex.def Info: ./IMAGENES/4.4.jpg  used on input line 214.
+(pdftex.def)             Requested size: 284.52756pt x 254.55058pt.
+<./IMAGENES/4.6.jpg, id=136, 137.01187pt x 258.9675pt>
+File: ./IMAGENES/4.6.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.6.jpg>
+Package pdftex.def Info: ./IMAGENES/4.6.jpg  used on input line 218.
+(pdftex.def)             Requested size: 284.52756pt x 537.83354pt.
+<./IMAGENES/4.9.jpg, id=137, 283.81032pt x 221.32687pt>
+File: ./IMAGENES/4.9.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.9.jpg>
+Package pdftex.def Info: ./IMAGENES/4.9.jpg  used on input line 223.
+(pdftex.def)             Requested size: 284.52756pt x 221.90718pt.
+<./IMAGENES/4.10.jpg, id=138, 171.64125pt x 255.20343pt>
+File: ./IMAGENES/4.10.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.10.jpg>
+Package pdftex.def Info: ./IMAGENES/4.10.jpg  used on input line 226.
+(pdftex.def)             Requested size: 284.52756pt x 423.08463pt.
+<./IMAGENES/4.11.jpg, id=139, 512.66531pt x 232.61906pt>
+File: ./IMAGENES/4.11.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.11.jpg>
+Package pdftex.def Info: ./IMAGENES/4.11.jpg  used on input line 228.
+(pdftex.def)             Requested size: 284.52756pt x 129.10155pt.
+<./IMAGENES/4.13.jpg, id=140, 473.51906pt x 173.89969pt>
+File: ./IMAGENES/4.13.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.13.jpg>
+Package pdftex.def Info: ./IMAGENES/4.13.jpg  used on input line 231.
+(pdftex.def)             Requested size: 284.52756pt x 104.4945pt.
+<./IMAGENES/4.24.jpg, id=141, 306.39468pt x 176.15813pt>
+File: ./IMAGENES/4.24.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.24.jpg>
+Package pdftex.def Info: ./IMAGENES/4.24.jpg  used on input line 243.
+(pdftex.def)             Requested size: 284.52756pt x 163.59418pt.
+
+LaTeX Warning: File `./IMAGENES/4.25' not found on input line 245.
+
+
+! LaTeX Error: Unknown graphics extension: .25.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.245 ...ludegraphics[width=10cm]{./IMAGENES/4.25}
+                                                   \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./IMAGENES/4.32.jpg, id=142, 149.05687pt x 265.74281pt>
+File: ./IMAGENES/4.32.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.32.jpg>
+Package pdftex.def Info: ./IMAGENES/4.32.jpg  used on input line 253.
+(pdftex.def)             Requested size: 284.52756pt x 507.34952pt.
+<./IMAGENES/4.34.jpg, id=143, 138.5175pt x 297.36093pt>
+File: ./IMAGENES/4.34.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.34.jpg>
+Package pdftex.def Info: ./IMAGENES/4.34.jpg  used on input line 256.
+(pdftex.def)             Requested size: 284.52756pt x 610.87791pt.
+<./IMAGENES/4.36.jpg, id=144, 350.81062pt x 182.18062pt>
+File: ./IMAGENES/4.36.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.36.jpg>
+Package pdftex.def Info: ./IMAGENES/4.36.jpg  used on input line 259.
+(pdftex.def)             Requested size: 284.52756pt x 147.7684pt.
+<./IMAGENES/4.41.jpg, id=145, 488.57532pt x 206.27063pt>
+File: ./IMAGENES/4.41.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.41.jpg>
+Package pdftex.def Info: ./IMAGENES/4.41.jpg  used on input line 267.
+(pdftex.def)             Requested size: 284.52756pt x 120.1249pt.
+<./IMAGENES/4.42.jpg, id=146, 180.675pt x 95.6072pt>
+File: ./IMAGENES/4.42.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.42.jpg>
+Package pdftex.def Info: ./IMAGENES/4.42.jpg  used on input line 269.
+(pdftex.def)             Requested size: 284.52756pt x 150.57773pt.
+<./IMAGENES/5.2.jpg, id=147, 450.9347pt x 190.46156pt>
+File: ./IMAGENES/5.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/5.2.jpg>
+Package pdftex.def Info: ./IMAGENES/5.2.jpg  used on input line 275.
+(pdftex.def)             Requested size: 284.52756pt x 120.18321pt.
+<./IMAGENES/5.4.jpg, id=148, 505.89pt x 212.29312pt>
+File: ./IMAGENES/5.4.jpg Graphic file (type jpg)
+<use ./IMAGENES/5.4.jpg>
+Package pdftex.def Info: ./IMAGENES/5.4.jpg  used on input line 278.
+(pdftex.def)             Requested size: 284.52756pt x 119.40163pt.
+<./IMAGENES/5.7.jpg, id=149, 415.5525pt x 188.95593pt>
+File: ./IMAGENES/5.7.jpg Graphic file (type jpg)
+<use ./IMAGENES/5.7.jpg>
+Package pdftex.def Info: ./IMAGENES/5.7.jpg  used on input line 282.
+(pdftex.def)             Requested size: 284.52756pt x 129.38213pt.
+<./IMAGENES/5.10.jpg, id=150, 496.10344pt x 278.54062pt>
+File: ./IMAGENES/5.10.jpg Graphic file (type jpg)
+<use ./IMAGENES/5.10.jpg>
+Package pdftex.def Info: ./IMAGENES/5.10.jpg  used on input line 288.
+(pdftex.def)             Requested size: 284.52756pt x 159.75159pt.
+<./IMAGENES/5.12.jpg, id=151, 289.83281pt x 149.8097pt>
+File: ./IMAGENES/5.12.jpg Graphic file (type jpg)
+<use ./IMAGENES/5.12.jpg>
+Package pdftex.def Info: ./IMAGENES/5.12.jpg  used on input line 291.
+(pdftex.def)             Requested size: 284.52756pt x 147.07536pt.
+<./IMAGENES/5.15.jpg, id=152, 336.50719pt x 162.6075pt>
+File: ./IMAGENES/5.15.jpg Graphic file (type jpg)
+<use ./IMAGENES/5.15.jpg>
+Package pdftex.def Info: ./IMAGENES/5.15.jpg  used on input line 296.
+(pdftex.def)             Requested size: 284.52756pt x 137.49004pt.
+<./IMAGENES/5.18.jpg, id=153, 146.04562pt x 106.14656pt>
+File: ./IMAGENES/5.18.jpg Graphic file (type jpg)
+<use ./IMAGENES/5.18.jpg>
+Package pdftex.def Info: ./IMAGENES/5.18.jpg  used on input line 300.
+(pdftex.def)             Requested size: 284.52756pt x 206.8149pt.
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.301 	\end{itemize}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--301
+
+ []
+
+[28 <./IMAGENES/4.1.jpg>] [29 <./IMAGENES/4.2.jpg> <./IMAGENES/4.3.jpg>]
+[30 <./IMAGENES/4.4.jpg>] [31 <./IMAGENES/4.6.jpg>] [32 <./IMAGENES/4.9.jpg>]
+[33 <./IMAGENES/4.10.jpg>] [34 <./IMAGENES/4.11.jpg> <./IMAGENES/4.13.jpg>]
+[35 <./IMAGENES/4.24.jpg>] [36 <./IMAGENES/4.32.jpg>] [37]
+Overfull \vbox (62.37791pt too high) has occurred while \output is active []
+
+
+[38 <./IMAGENES/4.34.jpg>] [39 <./IMAGENES/4.36.jpg> <./IMAGENES/4.41.jpg>]
+[40 <./IMAGENES/4.42.jpg> <./IMAGENES/5.2.jpg>] [41 <./IMAGENES/5.4.jpg> <./IMA
+GENES/5.7.jpg>] [42 <./IMAGENES/5.10.jpg> <./IMAGENES/5.12.jpg>]
+! Argument of \@sect has an extra }.
+<inserted text> 
+                \par 
+l.303 \section
+              {Conclusiones}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\normalsize \bfseries \boldmath }{\@firstoftwo {\@ssect {\z@ }{18\p@ \ETC.
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.303 \section
+              {Conclusiones}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+{
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.309 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.309 
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[43 <./IMAGENES/5.15.jpg> <./IMAGENES/5.18.jpg>] [44] (index.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) )
+(\end occurred when \iftrue on line 303 was incomplete)
+(\end occurred when \ifdim on line 303 was incomplete)
+(\end occurred when \iftrue on line 202 was incomplete)
+(\end occurred when \ifdim on line 202 was incomplete) 
+Here is how much of TeX's memory you used:
+ 5232 strings out of 480790
+ 78663 string characters out of 2913140
+ 337729 words of memory out of 3000000
+ 21081 multiletter control sequences out of 15000+200000
+ 540696 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,5n,36p,776b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MikText/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><D:/MikText/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><D:/MikText/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/MikText/fonts/type1
+/public/amsfonts/cm/cmti10.pfb>
+Output written on index.pdf (44 pages, 2331497 bytes).
+PDF statistics:
+ 224 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
+
